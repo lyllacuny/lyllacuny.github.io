@@ -1,0 +1,51 @@
+
+body {
+	font-family: Arial;
+	margin: 5%;
+}
+
+.headline {
+	background-color: #abf7b1;
+	padding: 10px;
+	display: table;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: "Host Grotesk", sans-serif;
+	font-weight:800;
+	font-size: 40px;
+}
+
+.protest-item {
+	overflow:auto;
+}
+
+.info-box {
+	background-color: #ADD8E6;
+	width: 400px;
+	height:auto;
+	float:left;
+	display: inline-block;
+}
+
+.image-box {
+	background-color: #FFFFC5;
+	width:400px;
+	float:right;
+	display: inline-block;
+}
+
+img {
+	width:100%;
+	height:auto;
+}
+
+
+.photo-row {
+	display:flex;
+}
+
+.satellite-image {
+	margin:10px;
+}
